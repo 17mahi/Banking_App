@@ -1,0 +1,19 @@
+{
+  "name": "kodbank",
+  "version": "1.0.0",
+  "description": "Kodbank - Demo Banking App",
+  "private": true,
+  "scripts": {
+    "dev": "cd backend && npm run dev",
+    "install:backend": "cd backend && npm install",
+    "install:all": "npm run install:backend"
+  },
+  "keywords": [
+    "banking",
+    "demo",
+    "express",
+    "sqlite"
+  ],
+  "author": "",
+  "license": "MIT"
+}
